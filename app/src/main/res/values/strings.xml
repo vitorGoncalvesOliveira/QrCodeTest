@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">qrCodeRead</string>
+    <string name="qr_codeButton">Read QRCode</string>
+    <string name="btn_back_scanQrCode"> Back </string>
+</resources>
